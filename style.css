@@ -1,0 +1,33 @@
+body{
+    background-image: url("./img/showcase.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+    background-color: yellow;
+    color: blue;
+    border: 2px salmon;
+    padding: 5px;
+}
+
+h3{
+    color: purple;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+div{
+    color: aliceblue;
+    background-color: transparent;
+    background-blend-mode: darken;
+    height: auto;
+    width: auto;
+    border: 2px solid white;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+}
